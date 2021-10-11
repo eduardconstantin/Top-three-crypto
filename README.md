@@ -1,4 +1,4 @@
-# Crypto Rankings
+# Top three cryptocurrencies
 
 Web application developed using latest technologies that shows the top three cryptocurencies.
 
@@ -8,7 +8,7 @@ What I learned making this project:
 - consuming apis using fetch: public api ([CoinStats](https://documenter.getpostman.com/view/5734027/RzZ6Hzr3))
 - configuring chart.js
 
-# Screenshots
+# Gif
 
 ### Desktop
-<img src="https://raw.githubusercontent.com/eduardconstantin/Crypto-Rankings/main/screenshots/mainScreen-desktop.png">
+<img src="https://raw.githubusercontent.com/eduardconstantin/Top-three-crypto/main/gif/main.gif">
