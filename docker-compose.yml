@@ -1,0 +1,10 @@
+version: "3.8"
+
+services:
+  top-three-crypto:
+    container_name: top-three-crypto
+    image: top-three-crypto:latest
+    build:
+      context: .
+    ports:
+      - 8080:80
